@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="skeleton" size="0.100000 0.100000" />
+    <ImageTarget name="Heart" size="0.100000 0.100000" />
+    <ImageTarget name="lungs_show" size="0.100000 0.100000" />
+    <ImageTarget name="istockphoto-625147262-612x612" size="0.100000 0.100000" />
+  </Tracking>
+</QCARConfig>
